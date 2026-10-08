@@ -41,3 +41,6 @@ footer{padding:30px 100px;color:var(--muted);font-size:11px;text-transform:upper
  body.open .burger span:first-child{top:6px;transform:rotate(45deg)}
  body.open .burger span:last-child{bottom:6px;transform:rotate(-45deg)}
 }
+.series .frame{margin:0 0 50px}
+.series .frame img{margin-bottom:10px}
+.series figcaption{color:var(--muted);font-size:12px;font-family:Inconsolata,monospace}
